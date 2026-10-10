@@ -1,0 +1,4 @@
+candidates/
+.vercel/
+.env*
+.DS_Store
