@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T03:32:00.027Z",
+  "generatedAt": "2026-10-16T16:52:32.239Z",
   "registry": "https://github.com/yukkcat/image-prompts (MIT)",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "YouMind GPT Image 2",
       "repo": "YouMind-OpenLab/awesome-gpt-image-2",
       "license": "CC BY 4.0",
-      "count": 226,
+      "count": 241,
       "path": "youmind-gpt-image-2.json"
     },
     {
@@ -15,7 +15,7 @@
       "name": "YouMind Nano Banana Pro",
       "repo": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
       "license": "CC BY 4.0",
-      "count": 170,
+      "count": 173,
       "path": "youmind-nano-banana-pro.json"
     },
     {
