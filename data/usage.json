@@ -25,10 +25,12 @@
     }
   },
   "updatedAt": "2026-10-04T12:32:56.232Z",
-  "status": "ok",
+  "status": "unavailable",
   "lastRun": {
     "rawBatches": 1,
     "processed": 1,
     "events": 1
-  }
+  },
+  "reason": "no BLOB_READ_WRITE_TOKEN",
+  "checkedAt": "2026-10-19T03:18:24.283Z"
 }
