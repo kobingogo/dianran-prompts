@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T06:11:24.795Z",
+  "generatedAt": "2026-11-12T21:29:08.945Z",
   "registry": "https://github.com/yukkcat/image-prompts (MIT)",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "YouMind GPT Image 2",
       "repo": "YouMind-OpenLab/awesome-gpt-image-2",
       "license": "CC BY 4.0",
-      "count": 430,
+      "count": 436,
       "path": "youmind-gpt-image-2.json"
     },
     {
